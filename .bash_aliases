@@ -9,6 +9,8 @@ alias hydra='flatpak run org.gabmus.hydrapaper'
 
 alias sus='bash ~/console_files/amogus.sh'
 alias soup='cat ~/console_files/soup.txt'
+alias hack='cat ~/console_files/hack.txt'
+alias kevin='cat ~console_files/kevin.txt'
 
 alias gi='git init'
 alias gc='git commit'
