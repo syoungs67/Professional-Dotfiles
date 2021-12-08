@@ -6,6 +6,7 @@ alias update='sudo apt update; sudo apt upgrade; sudo apt autoremove'
 alias aliases='gedit ~/.bash_aliases'
 alias remove='sudo apt remove'
 alias hydra='flatpak run org.gabmus.hydrapaper'
+
 alias sus='bash ~/console_files/amogus.sh'
 alias soup='cat ~/console_files/soup.txt'
 
